@@ -7,7 +7,8 @@
     - Client Development in C#/C++ and Java
 
 🌱 What Topics I'm currently working on: 
-    - Game Development, 
+    - C# Desktop Development, 
     - Android App Development in Java
+    - Web Development
     
 📫 Contact: marc.pape@pape-development.com
