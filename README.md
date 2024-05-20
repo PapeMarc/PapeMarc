@@ -2,13 +2,12 @@
 👋 Hi, I’m Marc Pape / @PapeMarc
 
 👀 Fields of Interest: 
-    Game Development in C# and C++, 
-    Web Development in JSC and PHP, etc., 
-    Client Development in C#/C++, Java and Dart (/Flutter)
+    Game Development (C# and C++), Web Development (JSC, PHP, etc.), 
+    App.-Development in C#, Java or Dart
 
 🌱 What Topics I'm currently working on: 
-    C# Desktop and Game-Development, 
-    App-Development in Flutter,
-    Web Development,
+    C# Game-Development, 
+    App-Development in C# and Flutter,
+    Web Development
     
 📫 Contact: marc.pape@pape-development.com
