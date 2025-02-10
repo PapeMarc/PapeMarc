@@ -3,7 +3,7 @@
 
 👀 Fields of Interest: 
 - Game Development (C# and C++), 
-- Backend Development (C#, Java, Kotlin), 
+- Backend Development (C#, Java, Kotlin) and Software Architecture, 
 - Web Development (TSC, JSC, PHP, CSS, ..React) 
     
 🌱 What Topics I'm currently working on: 
