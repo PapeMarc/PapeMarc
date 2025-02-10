@@ -2,12 +2,14 @@
 👋 Hi, I’m Marc Pape / @PapeMarc
 
 👀 Fields of Interest: 
-    Game Development (C# and C++), Web Development (JSC, PHP, etc.), 
-    App.-Development in C#, Java or Dart
-
-🌱 What Topics I'm currently working on: 
-    C# Game-Development, 
-    App-Development in C# and Flutter,
-    Web Development
+    Game Development (C# and C++), 
+    Backend Development (C#, Java, Kotlin), 
+    Web Development (TSC, JSC, PHP, CSS, ..React) 
     
-📫 Contact: marc.pape@pape-development.com
+🌱 What Topics I'm currently working on: 
+    C# ASP Web-Core API Development,
+    Kotlin Backend Development,
+    React Frontend Development,
+    Software Architecture
+    
+📫 Contact: marc@pape-development.com
