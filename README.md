@@ -7,9 +7,10 @@
 - Web Development (TSC, JSC, PHP, CSS, ..React) 
     
 🌱 What Topics I'm currently working on: 
-- C# ASP Web-Core API Development,
-- Kotlin Backend Development,
-- React Frontend Development,
-- Software Architecture
+- MCP-Architecture with Python and C#,
+- Software Architecture,
+- Web Development with React and Fluent
+- Continuous Deployment into Kubernetes
+- AdoIT basics
     
 📫 Contact: marc@pape-development.com
