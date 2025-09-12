@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes (Basics) and .NET MAUI**
 
-- 📝 Check out my blog: [pape-development.com/blog](pape-development.com/blog)
+- 📝 Check out my blog: [pape-development.com/blog](https://pape-development.com/blog)
 
 - 💬 Ask me about **Software Architecture, C#, .NET**
 
